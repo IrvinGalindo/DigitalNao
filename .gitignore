@@ -1,2 +1,7 @@
+#IDEs
 .ipynb_checkpoints
 .vscode
+
+#MAC files
+.DS_Store
+*/.DS_Store
